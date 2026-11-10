@@ -52,8 +52,9 @@
 | mAP50–95 | 0.20063156304965743 |
 
 [eval_predictions](../../report/individual/assets/eval_predictions/)
+
 [yolo26_runs](../../report/individual/assets/yolo26_runs/)
-Đặt cả 2 folder `assets/eval_predictions/` và `assets/yolo26_runs/` (giải nén từ `day2_colab_outputs.zip`) cạnh báo cáo và dẫn link tương đối. Không chỉ ghi số; chỉ ra ít nhất một ảnh và vật thể cụ thể.
+
 
 Trả lời bốn câu hỏi cuối notebook:
 
@@ -74,8 +75,6 @@ Trả lời bốn câu hỏi cuối notebook:
 
 ## 7. Tự đánh giá theo rubric
 
-Đối chiếu [RUBRIC.md](../../RUBRIC.md): phần nào đã có kết quả, phần nào còn thiếu hoặc chưa kiểm được. Không tự nhận hoàn thành bước chưa chạy.
 
 ## 8. Công cụ AI và tài liệu tham khảo
 
-Ghi công cụ đã dùng, dùng ở bước nào và phần đã tự kiểm tra; không dùng thì ghi rõ. Liệt kê nguồn ngoài repo được sử dụng. Không ghi mật khẩu/token hoặc đính kèm gold train.
