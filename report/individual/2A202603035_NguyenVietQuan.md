@@ -36,7 +36,7 @@
 | mean_iou_of_matches | 0.8442 | Không có rework |
 | passed | false| Không có rework |
 
-Dẫn tới `outputs/annotation_evaluation.json` trong repo. Nếu rework, ghi ảnh, lỗi đã kiểm, quyết định sửa/giữ và lý do. Không suy nguyên nhân chỉ từ FP/FN. Không có rework thì ghi rõ. [annotation_evaluation.json](../outputs/annotation_evaluation.json).
+Dẫn tới `outputs/annotation_evaluation.json` trong repo. Nếu rework, ghi ảnh, lỗi đã kiểm, quyết định sửa/giữ và lý do. Không suy nguyên nhân chỉ từ FP/FN. Không có rework thì ghi rõ. [annotation_evaluation.json](../../outputs/annotation_evaluation.json).
 
 ## 5. Kết quả YOLO
 
