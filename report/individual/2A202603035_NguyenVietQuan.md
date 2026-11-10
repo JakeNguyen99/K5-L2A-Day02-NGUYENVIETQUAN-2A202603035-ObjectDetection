@@ -50,6 +50,7 @@
 | Recall | 0.30664893617021277 |
 | mAP50 | 0.2739647516429376 |
 | mAP50–95 | 0.20063156304965743 |
+
 [eval_predictions](../../report/individual/assets/eval_predictions/)
 [yolo26_runs](../../report/individual/assets/yolo26_runs/)
 Đặt cả 2 folder `assets/eval_predictions/` và `assets/yolo26_runs/` (giải nén từ `day2_colab_outputs.zip`) cạnh báo cáo và dẫn link tương đối. Không chỉ ghi số; chỉ ra ít nhất một ảnh và vật thể cụ thể.
