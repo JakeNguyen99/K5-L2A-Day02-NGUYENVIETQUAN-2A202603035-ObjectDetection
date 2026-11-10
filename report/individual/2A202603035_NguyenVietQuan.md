@@ -1,6 +1,6 @@
 # Báo cáo cá nhân — Ngày 2 Object Detection
 
-Đổi tên file theo `MSSV_HoTen.md`, ví dụ `20241234_NguyenVanAn.md`. Điền kết quả thật, xóa dòng hướng dẫn khi nộp. Xem [quy định nộp](../../SUBMISSION.md).
+[SUBMISSION.md](../../SUBMISSION.md).
 
 ## 1. Thông tin học viên
 
@@ -13,7 +13,7 @@
 
 ## 2. Schema và mini guideline
 
-Dẫn tới [GUIDELINE_MINI.md](../../GUIDELINE_MINI.md). Tóm tắt ba ca mơ hồ đã quyết định, cách áp dụng schema và phần cần giảng viên làm rõ.
+[GUIDELINE_MINI.md](../../GUIDELINE_MINI.md).
 
 ## 3. Annotation và self-QC
 
@@ -27,16 +27,16 @@ Dẫn tới [GUIDELINE_MINI.md](../../GUIDELINE_MINI.md). Tóm tắt ba ca mơ h
 
 | Chỉ số | Trước sửa | Sau sửa nếu có |
 |---|---:|---:|
-| TP | 441 | |
-| FP | 455 | |
-| FN | 212 | |
-| Precision | 0.4922 | |
-| Recall | 0.6753 | |
-| F1 | | 0.5694 |
-| mean_iou_of_matches | 0.8442 | |
-| passed | false| |
+| TP | 441 | Không có rework |
+| FP | 455 | Không có rework |
+| FN | 212 | Không có rework |
+| Precision | 0.4922 | Không có rework |
+| Recall | 0.6753 | Không có rework |
+| F1 | 0.5694 | Không có rework |
+| mean_iou_of_matches | 0.8442 | Không có rework |
+| passed | false| Không có rework |
 
-Dẫn tới `outputs/annotation_evaluation.json` trong repo. Nếu rework, ghi ảnh, lỗi đã kiểm, quyết định sửa/giữ và lý do. Không suy nguyên nhân chỉ từ FP/FN. Không có rework thì ghi rõ.
+Dẫn tới `outputs/annotation_evaluation.json` trong repo. Nếu rework, ghi ảnh, lỗi đã kiểm, quyết định sửa/giữ và lý do. Không suy nguyên nhân chỉ từ FP/FN. Không có rework thì ghi rõ. [annotation_evaluation.json](../../annotation_evaluation.json).
 
 ## 5. Kết quả YOLO
 
