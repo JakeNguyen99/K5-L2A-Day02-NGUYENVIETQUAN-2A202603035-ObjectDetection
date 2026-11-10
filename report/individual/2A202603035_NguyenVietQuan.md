@@ -74,7 +74,13 @@ Trả lời bốn câu hỏi cuối notebook:
 | xác định vật thể cần được gán nhãn | vật thể có đặc điểm của 2 lớp khác nhau | tìm hiểu thật kỹ và phân biệt rõ ràng đặc điểm của 2 lớp đó | gán được nhãn cho vật thể đó |
 
 ## 7. Tự đánh giá theo rubric
-
+- Gán nhãn toàn bộ 50 ảnh.
+- Gán đủ xe thuộc schema.
+- Box sát phần vật thể nhìn thấy.
+- Phân biệt car/truck/bus/van, không gán vật thể ngoài scope.
+- Định nghĩa lớp, có hơn ba case có lý do.
+- F1 >= 0.50 và mean IoU >= 0.70
+- Colab chạy được, không dùng eval để train, có metrics/ảnh eval và nhận xét lỗi
 
 ## 8. Công cụ AI và tài liệu tham khảo
-
+- Google AI Overview, dùng ở bước gắn nhãn, tìm shortcut để thao tác trên CVAT nhanh hơn
